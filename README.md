@@ -1,0 +1,2 @@
+# javascript
+paltform for developer
